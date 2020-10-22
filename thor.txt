@@ -1,0 +1,2 @@
+nice tool to automate pull requests from command line:
+https://github.com/NordicHPC/git-pr
